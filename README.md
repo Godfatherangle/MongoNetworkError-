@@ -6,8 +6,8 @@ MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017)
 
 solve these error only 2  commands i will show u
 --------------------------------------------------------------------------------
-sudo rm -rf /tmp/mongodb-27017.sock
-sudo service mongod start
+1.    sudo rm -rf /tmp/mongodb-27017.sock
+2.    sudo service mongod start
 -----------------------------------------------------------------------------------------------------
 
 wuiiii that solve
